@@ -1,7 +1,7 @@
 {
   "name": "git-addnew",
   "version": "1.0.0",
-  "description": "A command-line tool to only add new files to the current git repository",
+  "description": "A command line tool to stage only new files on git.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dukemiller/git-addnew.git"

@@ -1,5 +1,5 @@
 # Git addnew
-A simple command line tool for staging only new files on git.
+A command line tool to stage only new files on git.
 
 ## Installation  
 ```npm install --global git-addnew```  
