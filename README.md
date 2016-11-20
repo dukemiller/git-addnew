@@ -1,2 +1,8 @@
-# git-addnew
-A simple script for only adding new files to your git repository
+# Git addnew
+A simple command line tool for staging only new files on git.
+
+## Installation  
+```npm install --global git-addnew```  
+
+## Usage  
+```git addnew```  
