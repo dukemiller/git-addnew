@@ -1,6 +1,6 @@
 {
   "name": "git-addnew",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A command line tool to stage only new files on git.",
   "repository": {
     "type": "git",
